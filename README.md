@@ -62,9 +62,9 @@
 ## 📌 Featured Projects
 
 - 🔗 **[E-Commerce](https://github.com/Vyasmohit28/E-commerce-website-BACKEND-.git)** – A E-Commerce webiste for add products, and more   
-- 🍔 **[Food Delivery App](#)** – A React + Bootstrap-based full-stack application  
-- 🎵 **[Spotify Clone](#)** – A static clone using HTML, CSS & JavaScript  
-- 🎬 **[Netflix Clone](#)** – A UI-only clone of the Netflix homepage
+- 🍔 **[Food Delivery App](https://github.com/Vyasmohit28/zomato.com.git)** – A React + Bootstrap-based full-stack application  
+- 🎵 **[Spotify Clone](https://github.com/Vyasmohit28/Project-Spotify-.git)** – A static clone using HTML, CSS & JavaScript  
+- 🎬 **[Netflix Clone]()** – A UI-only clone of the Netflix homepage
 
 ---
 
